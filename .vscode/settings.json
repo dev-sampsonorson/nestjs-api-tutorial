@@ -1,0 +1,14 @@
+{
+    "typescriptHero.imports.organizeOnSave": true,
+    "typescriptHero.imports.disableImportRemovalOnOrganize": false,
+    "typescriptHero.imports.disableImportsSorting": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.organizeImports": false
+    },
+    "javascript.preferences.importModuleSpecifier": "project-relative",
+    "typescript.preferences.importModuleSpecifier": "project-relative",
+}
